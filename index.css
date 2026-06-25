@@ -2,3 +2,27 @@ h1{
     display: flex;
     justify-content: center;
 }
+.div1{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 50px;
+}
+.div2{
+    width: 70px;
+    height: 70px;
+    background-color:yellow;
+    border-radius: 50px;
+}
+.div3{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50px;
+}
+.navbar{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
