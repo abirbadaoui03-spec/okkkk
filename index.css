@@ -26,3 +26,26 @@ h1{
     align-items: center;
     gap:10px;
 }
+.togel{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    position: absolute;
+    right: 2%;
+    margin-top:65%;
+}
+.tg1{
+    height: 3px;
+    width: 18px;
+    background-color: black;
+}
+.tg2{
+    height: 3px;
+    width: 18px;
+    background-color: black;
+}
+.tg3{
+    height: 3px;
+    width: 18px;
+    background-color: black;
+}
